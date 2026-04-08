@@ -1,0 +1,2 @@
+boleanos atuam como true e false, para contas matematicas ,situacoes de if else.
+funcoes: Em resumo, funções permitem que você escreva código reutilizável e organizado. Eles podem receber entradas (parâmetros), executar ações e retornar saídas.
